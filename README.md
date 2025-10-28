@@ -132,7 +132,7 @@ This project is licensed under the ISC License.
 
 ## 👨‍💻 Author
 
-**Mayur** - [GitHub Profile](https://github.com/yourusername)
+**Mayur Kulkarni** - [GitHub Profile](https://github.com/mayurmk1704/)
 
 ## 🙏 Acknowledgments
 
